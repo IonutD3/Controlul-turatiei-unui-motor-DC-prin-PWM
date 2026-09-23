@@ -257,7 +257,7 @@ Simularea permite observarea comportamentului sistemului fără utilizarea imedi
 
 ---
 
-## 📁 Project Structure
+## 📁 Structura proiectului
 
 ```text
 Controlul-turatiei-unui-motor-DC-prin-PWM/
@@ -472,7 +472,7 @@ Potentiometer
 
 ---
 
-## 📁 Repository Structure
+## 📁 Project Structure
 
 ```text
 Controlul-turatiei-unui-motor-DC-prin-PWM/
